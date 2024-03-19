@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PhoneManager:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3ee976e-a1a8-487d-8d6c-dc308135ccd8" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PhoneManager_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhoneManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/AddBrandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/AddPhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/DeleteBrandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/DeleteOnePhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/DeletePhonesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/FindAllBrandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/FindOnePhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/ShowAllBrandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/ShowAllPhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/UpdatePhoneController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/controller/ValidateCodeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/dao/BrandDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/dao/PhoneDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/dao/impl/BrandDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/dao/impl/PhoneDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/entity/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/entity/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/service/BrandService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/service/PhoneService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/service/impl/BrandServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/service/impl/PhoneServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/test/BrandDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/test/PhoneDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/test/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/baizhi/util/JDBCUtils3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/el-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hutool-all-5.7.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jsp-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/addBrand.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/addPhone.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/adduser.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/file.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/city.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/dh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/mima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/mm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/img/yh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/showAllBrand.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/showAllPhone.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/updatephone.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2aTNpPEbino9rp1dWidnWS54Vch" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/javaproject/PhoneManager/web/WEB-INF/lib&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/javaproject/PhoneManager/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\javaproject\PhoneManager\web\WEB-INF\lib" />
+      <recent name="E:\javaproject\PhoneManager\web" />
+      <recent name="E:\javaproject\PhoneManager\src" />
+      <recent name="E:\javaproject\PhoneManager\web\WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\javaproject\PhoneManager\web\WEB-INF\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.baizhi.util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 9.0.46">
+    <configuration name="BrandDaoTest.testinsertBrand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhoneManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.test.BrandDaoTest" />
+      <option name="METHOD_NAME" value="testinsertBrand" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneDaoTest.testInsertPhone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhoneManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.test.PhoneDaoTest" />
+      <option name="METHOD_NAME" value="testInsertPhone" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneDaoTest.testSelectPhoneById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhoneManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.test.PhoneDaoTest" />
+      <option name="METHOD_NAME" value="testSelectPhoneById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneDaoTest.testUpdatePhone" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhoneManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.test.PhoneDaoTest" />
+      <option name="METHOD_NAME" value="testUpdatePhone" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneDaoTest.testdeleteByBrandId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PhoneManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.test.PhoneDaoTest" />
+      <option name="METHOD_NAME" value="testdeleteByBrandId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/PhoneManager/login.jsp" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="PhoneManager:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/PhoneManager" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="77b91fe9-b721-406a-a354-f789149f4fa3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62217" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="PhoneManager:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.BrandDaoTest.testinsertBrand" />
+      <item itemvalue="JUnit.PhoneDaoTest.testdeleteByBrandId" />
+      <item itemvalue="JUnit.PhoneDaoTest.testInsertPhone" />
+      <item itemvalue="JUnit.PhoneDaoTest.testSelectPhoneById" />
+      <item itemvalue="JUnit.PhoneDaoTest.testUpdatePhone" />
+      <item itemvalue="Tomcat 服务器.Tomcat 9.0.46" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PhoneDaoTest.testdeleteByBrandId" />
+        <item itemvalue="JUnit.BrandDaoTest.testinsertBrand" />
+        <item itemvalue="JUnit.PhoneDaoTest.testUpdatePhone" />
+        <item itemvalue="JUnit.PhoneDaoTest.testInsertPhone" />
+        <item itemvalue="JUnit.PhoneDaoTest.testSelectPhoneById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e3ee976e-a1a8-487d-8d6c-dc308135ccd8" name="更改" comment="" />
+      <created>1704338793388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704338793388</updated>
+      <workItem from="1704338794502" duration="9817000" />
+      <workItem from="1704365105656" duration="3145000" />
+      <workItem from="1704417279704" duration="13582000" />
+      <workItem from="1704443387502" duration="49000" />
+      <workItem from="1704443465290" duration="3399000" />
+      <workItem from="1704523408308" duration="1442000" />
+      <workItem from="1704677832302" duration="16094000" />
+      <workItem from="1704710022712" duration="1545000" />
+      <workItem from="1704763253178" duration="8733000" />
+      <workItem from="1704790587600" duration="2176000" />
+      <workItem from="1704792785091" duration="1278000" />
+      <workItem from="1704807001608" duration="1991000" />
+      <workItem from="1704850010573" duration="14330000" />
+      <workItem from="1704934390674" duration="6217000" />
+      <workItem from="1705022973726" duration="2839000" />
+      <workItem from="1705042738289" duration="27000" />
+      <workItem from="1709199931534" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

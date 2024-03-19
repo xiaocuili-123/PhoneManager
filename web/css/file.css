@@ -1,0 +1,79 @@
+*{margin:0;padding:0;font-family: "微软雅黑"; color: #fff;}
+a{text-decoration:none;}
+u{cursor:pointer}
+ul{list-style: none;color: #fff;}
+body{background:url(../img/bg.jpg) no-repeat; background-size:cover; overflow:hidden;}
+.lfet{float:left;}
+.right{float:right}
+.navbar{height: 45px;background: #000;}
+.container{width: 1000px;padding:0 15px;margin:0 auto;position: relative;}
+.navbar .logo{height: 44px;line-height: 44px;color:#fff;}
+.userbar{right: 20px;position: absolute;top: 10px;}
+.cl>li{margin-right: 10px;}
+.article{width: 1000px;height: 323px;margin:0 auto;}
+.pd-20{padding:20px;}
+.text-c{text-align:center;}
+.top{margin-bottom:5px;}
+.btn-a{width:100px;color: #fff;font-size: 15px;letter-spacing: 1px;background: #5a98de; border-bottom: 1px solid #5a98de; outline: medium; -webkit-appearance: none;}
+.btn-b{width:50px;color: #fff;font-size: 15px;letter-spacing: 1px;background: #5a98de; border-bottom: 1px solid #5a98de; outline: medium; -webkit-appearance: none;}
+.bg{height: 25px; border-bottom: 2px dashed #5A98DE; padding: 5px;}
+.btn{display: inline-block;box-sizing: border-box;cursor: pointer;text-align: center;font-weight: 400;white-space: nowrap;vertical-align: middle;border: solid 1px #ddd;background-color: #fff;width: auto;}
+a.btn{line-height: 21px}
+.btn-danger {color: #fff;background-color: #dd514c;border-color: #dd514c;}
+.btn-primary {color: #fff;background-color: #5a98de;border-color: #5a98de;}
+.radius{border-radius: 4px;}
+.bor{border-radius: 10px;background: -webkit-gradient(linear,center top,center bottom,from(rgba(255, 255, 255, 0.1)),to(rgba(0, 0, 0, 0.7)));padding: 5px;}
+.lable{height: 23px;paddng:0 15px;margin:10px 0;}
+table{width:100%;empty-cells:show;background-color:rgba(0,0,50,0.5);border-collapse:collapse;border-spacing:0}
+table th{text-align:left; font-weight:400}
+.table th{font-weight:bold}
+.table th,.table td{padding:8px;line-height:20px;word-break:break-all}
+.table td{text-align:left}
+.table tbody tr.success > td{background-color:#dff0d8}
+.table tbody tr.error > td{background-color:#f2dede}
+.table tbody tr.warning > td{background-color:#fcf8e3}
+.table tbody tr.info > td{background-color:#d9edf7}
+.table tbody + tbody{border-top:2px solid #5A98DE}
+.table .table{background-color:#fff}
+.table-border{border-top:1px solid #5A98DE}
+.table-border th,.table-border td{border-bottom:1px solid #5A98DE}
+.table-bg thead th{background-color:rgba(0,0,50,0.5);}
+.table-bordered {border:1px solid #5A98DE;border-collapse:separate;*border-collapse:collapse;border-left:0;}
+.table-bordered th,.table-bordered td{border-left:1px solid #5A98DE}
+.table-border.table-bordered{border-bottom:0}
+.table-striped tbody > tr:nth-child(odd) > td,
+.table-striped tbody > tr:nth-child(odd) > th{background-color:#f9f9f9}
+.table-condensed th,.table-condensed td{padding:4px 5px}
+.table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th{background-color:rgba(0,0,0,0.3);}
+.table tbody tr.selected td{background-color:#F3F3F3}
+.table tbody tr.active,
+.table tbody tr.active > td,
+.table tbody tr.active > th,
+.table tbody tr .active{ background-color:#F5F5F5!important}
+.table tbody tr.success,.table tbody tr.success > td,.table tbody tr.success > th,
+.table tbody tr .success{background-color:#DFF0D8!important}
+.table tbody tr.warning,.table tbody tr.warning > td,.table tbody tr.warning > th,
+.table tbody tr .warning{background-color:#FCF8E3!important}
+.table tbody tr.danger,.table tbody tr.danger > td,
+.table tbody tr.danger > th,
+.table tbody tr .danger{background-color:#F2DEDE!important}
+.table .text-c th,.table .text-c td{text-align:center}
+.table .text-r th,.table .text-r td{text-align:right}
+.table th.text-l,.table td.text-l{text-align:left!important}
+.table th.text-c,.table td.text-c{text-align:center!important}
+.table th.text-r,.table td.text-r{text-align:right!important}
+.label{display: inline-block;padding:2px 4px;font-size: 11.844px;font-weight: bold;line-height:14px;color: #fff;white-space: nowrap;vertical-align:middle;background-color: #999; overflow: hidden;}
+/*未冻结*/
+.label-success, .badge-success{background-color:#5eb95e}
+.label-success[href], .badge-success[href]{background-color: #5eb95e}
+/*冻结*/
+.label-warning, .badge-warning{background-color: red;}
+.label-warning[href], .badge-warning[href]{background-color: #f37b1d}
+/*datatable*/
+.dataTables_info {clear: both;float: left;padding-top:15px;font-size:14px; color:white;}
+.dataTables_paginate {float: right;padding-top:15px;text-align: right;}
+.dataTables_paginate .paginate_button {border: 1px solid #ccc;cursor: pointer;display: inline-block;margin-left: 2px;text-align: center;text-decoration: none;color:white;height: 26px;
+line-height: 26px;text-decoration: none;margin: 0 0px 6px 6px;padding: 0 10px;font-size:14px}
+.dataTables_paginate .paginate_button:hover,
+.dataTables_paginate .paginate_button.current:hover{background:#5a98de;color:#fff}
